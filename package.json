@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/apradhn/pradhan-xyz/issues"
   },
-  "homepage": "https://github.com/apradhn/pradhan-xyz"
+  "homepage": "https://github.com/apradhn/pradhan-xyz",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
