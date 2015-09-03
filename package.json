@@ -1,0 +1,19 @@
+{
+  "name": "pradhan-xyz",
+  "version": "1.0.0",
+  "description": "Redesigning my website with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apradhn/pradhan-xyz.git"
+  },
+  "author": "Abhijit Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apradhn/pradhan-xyz/issues"
+  },
+  "homepage": "https://github.com/apradhn/pradhan-xyz"
+}
